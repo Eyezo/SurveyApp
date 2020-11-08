@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">UserSurvey</string>
+
+    <string name="name_hint">enter your firstname</string>
+    <string name="surname_hint">ente your surname</string>
+    <string name="contact_hint">enter your contact number</string>
+    <string name="date_hint">Date</string>
+    <string name="age_hint">age</string>
+
+    <string name="takeSurvey_text">take Survey</string>
+    <string name="surveyResults_text">Survey results</string>
+
+    <string name="checkBox_Pizza">Pizza</string>
+    <string name="checkBox_Pasta">Pasta</string>
+    <string name="checkBox_Pap">Pap n Wors</string>
+    <string name="checkBox_Chicken">Chicken stir fry</string>
+    <string name="checkBox_Beef">Beef stir fry</string>
+    <string name="checkBox_other">Other</string>
+
+    <string name="submit_survey">Submit</string>
+
+    <string name="eat">I like to eat out</string>
+    <string name="movies">I like to watch movies</string>
+    <string name="tv">I like to watch TV</string>
+    <string name="radio">I like to listen to the radio</string>
+
+    <string name="radio_strongAg">Strongly Agree</string>
+    <string name="radio_agree">Agree</string>
+    <string name="radio_neutral">Neutral</string>
+    <string name="radio_disagree">Disagree</string>
+    <string name="radio_strongDis">Strongly disagree</string>
+
+    <string name="number_of_survey">Total number of surveys</string>
+    <string name="average_age">Average age</string>
+    <string name="old_person">Oldest person participated in survey</string>
+    <string name="young_person">Youngest person participated in survey</string>
+    <string name="percent_pizza">Percentage of people who like Pizza</string>
+    <string name="percent_pasta">Percentage of people who like Pasta</string>
+    <string name="percent_pap">Percentage of people who like Pap and Wors</string>
+    <string name="out">People like to eat out</string>
+    <string name="movi">People like to watch movies</string>
+    <string name="tvt">People like to watch TV</string>
+    <string name="rad">People like to listen to the radio</string>
+    <string name="button_ok">OK</string>
+
+</resources>
